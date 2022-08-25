@@ -20,6 +20,18 @@ main div h3{
     width: 400px;
     margin-top: 25px;
 }
+.but{
+    margin-top: 5px;
+    margin-left: 300px;
+    margin-bottom: 10px;
+}
+.sec{
+    margin-top: 20px;
+    background-color: rgb(255, 0, 55);
+}
+.u{
+    background-color: rgb(255, 196, 0);
+}
 aside{
     height: 700px;
     background-color: rgb(255, 47, 47);
