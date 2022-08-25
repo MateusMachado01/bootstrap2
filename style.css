@@ -1,0 +1,33 @@
+header{
+    height: 75PX;
+    background-color: rgb(0, 115, 42);
+}
+button{
+    margin-top: 15px;
+    margin-left: 60px;
+}
+main{
+    height: 700px;
+    background-color: rgb(255, 238, 0);
+}
+main div{
+    display: inline-block;
+}
+main div h3{
+    left: 200px;
+}
+.bob{
+    width: 400px;
+    margin-top: 25px;
+}
+aside{
+    height: 700px;
+    background-color: rgb(255, 47, 47);
+}
+.busca{
+    width: 150px;
+}
+footer{
+    height: 150px;
+    background-color: rgb(0, 115, 42);
+}
