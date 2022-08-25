@@ -25,8 +25,33 @@ aside{
     background-color: rgb(255, 47, 47);
 }
 .busca{
-    width: 150px;
+    width: 400px;
+    margin-top: 20px;
 }
+.h{
+    background-color: brown;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.b{
+    background-color: aquamarine;
+    margin-top: 0px;
+}
+.img1{
+    width: 200px;
+    margin-bottom: 10px;
+}
+.img2{
+    width: 200px;
+    margin-bottom: 10px;
+}
+.img3{
+    width: 200px;
+}
+.img4{
+    width: 200px;
+}
+
 footer{
     height: 150px;
     background-color: rgb(0, 115, 42);
